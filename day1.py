@@ -1,1 +1,0 @@
-print("DAY 1 AND I SURVIVED YAYYY")
